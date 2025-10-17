@@ -47,8 +47,8 @@ I am building hands-on experience in SOC operations, network monitoring, inciden
 ---
 
 ## Contact
-- LinkedIn: [Your LinkedIn URL]  
-- GitHub: [Your GitHub URL]
+- LinkedIn: www.linkedin.com/in/sonypaulson   
+- GitHub: https://github.com/SonyPaulson
 
 ---
 
