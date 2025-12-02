@@ -28,7 +28,7 @@ Each course includes:
 
 ---
 
-## 🔍 Current Skills & Tools
+## 🛠️ Current Skills & Tools
 
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows  
 - **Network Monitoring & Analysis:** Wireshark, Nmap, traceroute, netstat, tcpdump 
@@ -59,7 +59,7 @@ To build a clear, practical cybersecurity portfolio that demonstrates:
 
 ---
 
-## Education & Certifications
+## 🎓 Education & Certifications
 - **Professional Certificate in Cybersecurity**, Purdue University (In Progress)  
 - **CompTIA Security+ Certification** (In Progress)
 - **ISC2 CC Certification – Certified in Cybersecurity** (In Progress)
