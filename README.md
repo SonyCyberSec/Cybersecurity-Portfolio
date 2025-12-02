@@ -42,7 +42,8 @@ I am building hands-on experience in SOC operations, network monitoring, inciden
 
 ## Education & Certifications
 - **Professional Certificate in Cybersecurity**, Purdue University (In Progress)  
-- **CompTIA Security+** (In Progress)  
+- **CompTIA Security+ Certification** (In Progress)
+- **ISC2 CC Certification – Certified in Cybersecurity** (In Progress)
 
 ---
 
