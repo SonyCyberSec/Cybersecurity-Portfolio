@@ -1,42 +1,61 @@
-# Sony's Cybersecurity Portfolio
+# 🛡️ Cybersecurity Portfolio
 
-## About Me
-IT professional with 22 years of experience, transitioning into cybersecurity.  
-Currently completing the **Professional Certificate Program in Cybersecurity** at **Purdue University** and **Security+ certified**.  
-
-I am building hands-on experience in SOC operations, network monitoring, incident response, and vulnerability management through labs, projects, and simulations.
+I am an IT professional with 25 years of experience, transitioning into cybersecurity. This repository highlights my hands-on cybersecurity work, including labs, projects, scripts, and coursework. I am currently completing the **Professional Certificate Program in Cybersecurity** from Purdue University, and this repo documents my progress and learning.
 
 ---
 
-## Skills
-- **Security Tools / SIEM:** Splunk, Wazuh, Security Onion  
-- **Network Monitoring & Analysis:** Wireshark, tcpdump  
-- **Vulnerability Assessment:** OpenVAS, Nessus  
-- **Incident Response & Threat Detection**: Alert triage, malware analysis simulations  
-- **Operating Systems:** Windows, Linux (Ubuntu, Kali)  
-- **Other:** Scripting basics (Python, Bash), IT infrastructure knowledge
+## 📂 Repository Structure
+
+### 🎓 Purdue Cybersecurity Certificate
+All mandatory modules, elective courses, labs, and the capstone project are organized here:
+
+`Purdue-Cybersecurity-Certificate/`
+
+- Operating Systems & Networking Labs  
+- Infrastructure and Application Security  
+- Ethical Hacking & VAPT  
+- Malware & Ransomware Defense  
+- Lesson-End Projects  
+- Capstone Project  
+- Elective Courses (Security+, Azure, AI in Cybersecurity)
+
+Each course includes:
+- **Labs**
+- **Lesson-end projects**
+- **Notes**
+- **Screenshots (if applicable)**
+- **Reports or scripts**
 
 ---
 
-## Projects / Labs
+## 🔍 Current Skills & Tools
 
-### 1. Network Traffic Analysis Lab
-- **Description:** Monitored and analyzed network traffic to detect suspicious activity.  
-- **Tools Used:** Wireshark  
-- **Key Learnings:** Learned how to identify anomalies, packet analysis, and logging.  
-- **Link to Project Folder:** `[Lab1-Network-Monitoring](./Lab1-Network-Monitoring)`
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows  
+- **Network Monitoring & Analysis:** Wireshark, Nmap, traceroute, netstat, tcpdump 
+- **Security Tools / SIEM:** Splunk, Wazuh, Security Onion, Burp Suite, Nessus/OpenVAS, Metasploit  
+- **Cloud Security:** Azure fundamentals & security concepts  
+- **Scripting:** Python, Bash, PowerShell  
+- **Security Concepts:** IAM, vulnerability management, VAPT, incident response
+- **Vulnerability Assessment:** OpenVAS, Nessus
+- **Incident Response & Threat Detection**: Alert triage, malware analysis simulations 
 
-### 2. Vulnerability Scanning Lab
-- **Description:** Conducted vulnerability scans and documented findings with recommendations.  
-- **Tools Used:** OpenVAS, Nessus  
-- **Key Learnings:** Learned to identify vulnerabilities and assess risk levels.  
-- **Link to Project Folder:** `[Lab2-Vulnerability-Scanning](./Lab2-Vulnerability-Scanning)`
+---
 
-### 3. Incident Response Simulation
-- **Description:** Responded to simulated security incidents and performed remediation steps.  
-- **Tools Used:** Splunk, Security Onion  
-- **Key Learnings:** Practiced alert triage, incident documentation, and remediation.  
-- **Link to Project Folder:** `[Lab3-Incident-Response](./Lab3-Incident-Response)`
+## 📁 Additional Areas (Expanding Soon)
+I’ll continue adding:
+- SOC Analyst practice labs  
+- SIEM log analysis (Splunk/Elastic)  
+- Python automation scripts  
+- Capture-the-Flag (CTF) writeups  
+- Blue Team exercises  
+
+---
+
+## 🎯 Goal
+To build a clear, practical cybersecurity portfolio that demonstrates:
+- Hands-on technical skills  
+- Problem-solving ability  
+- Realistic scenarios aligned with SOC Analyst, Security Analyst, and Vulnerability Analyst roles  
 
 ---
 
@@ -53,4 +72,5 @@ I am building hands-on experience in SOC operations, network monitoring, inciden
 
 ---
 
-*Portfolio is regularly updated with new labs and projects demonstrating practical cybersecurity skills.*
+## 🚀 Status
+**Actively adding new labs every week.**
