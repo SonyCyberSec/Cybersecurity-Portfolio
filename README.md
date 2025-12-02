@@ -66,9 +66,12 @@ To build a clear, practical cybersecurity portfolio that demonstrates:
 
 ---
 
-## Contact
-- LinkedIn: www.linkedin.com/in/sonypaulson   
-- GitHub: https://github.com/SonyCyberSec
+## 📬 Contact
+
+- **Email:** sonyspaulson@gmail.com  
+- **LinkedIn:** [linkedin.com/in/sonypaulson](https://www.linkedin.com/in/sonypaulson)  
+- **GitHub:** [github.com/SonyCyberSec](https://github.com/SonyCyberSec)
+
 
 ---
 
