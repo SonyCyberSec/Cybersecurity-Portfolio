@@ -42,13 +42,13 @@ I am building hands-on experience in SOC operations, network monitoring, inciden
 
 ## Education & Certifications
 - **Professional Certificate in Cybersecurity**, Purdue University (In Progress)  
-- **CompTIA Security+** (Completed)  
+- **CompTIA Security+** (In Progress)  
 
 ---
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/sonypaulson   
-- GitHub: https://github.com/SonyPaulson
+- GitHub: https://github.com/SonyCyberSec
 
 ---
 
