@@ -76,4 +76,4 @@ To build a clear, practical cybersecurity portfolio that demonstrates:
 ---
 
 ## 🚀 Status
-**Actively adding new labs every week.**
+**Actively adding new labs every week. Course in progress.**
