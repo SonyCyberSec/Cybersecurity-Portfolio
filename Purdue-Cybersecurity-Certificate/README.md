@@ -18,6 +18,9 @@ The portfolio is organized into Mandatory Courses and Elective Courses, each wit
 07 - Vulnerability Assessment and Penetration Testing (VAPT)  
 08 - Cyber Capstone Project  
 
+0. OS & Networking Essentials Lab – foundational Linux, PowerShell, and networking exercises. [Folder link]
+
+
 ### 🎓 Elective Courses
 01 - Purdue Academic Masterclass  
 02 - CompTIA Security+ (SY0-701)  
