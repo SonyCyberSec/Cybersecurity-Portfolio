@@ -1,93 +1,39 @@
-# 📘 Lesson 02 – Operating System (Summary)
+# Manipulating and Viewing Virtual Memory Configuration
 
-This lesson explains what an operating system is, how it works internally, and why its architecture and features are essential for cybersecurity and system performance.
+This lab guides you through adjusting and verifying virtual memory (paging file) settings in Windows. By the end of the lab, you will understand how to configure paging file sizes and confirm the changes within the system settings.
 
-<details>
-<summary>🔹 What an Operating System Does</summary>
+## Objective
+Configure and verify virtual memory settings to understand how paging file size affects system performance.
 
-An OS is the core software that:  
+## Requirements
+- Windows 10, Windows 11, or Windows Server 2022 virtual machine
+- Administrator access
 
-- Manages hardware resources  
-- Runs applications  
-- Allocates memory  
-- Handles processes  
-- Controls devices and files  
-- Provides security and access control  
+## Steps
 
-It acts as the bridge between users, applications, and hardware.
+### Step 1: Configure Virtual Memory
+1. Start the Windows virtual machine.
+2. Press **Ctrl + Alt + Del** (or use VirtualBox → Input → Insert Ctrl+Alt+Del).
+3. Log in using the password: `Password.1!!`
+4. Open the Start Menu and search for **Settings**.
+5. Search for **View advanced system settings** and open it.
+6. Go to **Advanced** → **Performance** → **Settings**.
+7. In the Performance Options window, go to **Advanced** → **Virtual memory (Change…)**.
+8. Uncheck **Automatically manage paging file size for all drives**.
+9. Select **Custom size** and enter:
+   - Initial size: **500 MB**
+   - Maximum size: **1500 MB**
+10. Click **Set**, then **OK**.
+11. Restart the system when prompted.
 
-</details>
+### Step 2: Verify the Configuration
+1. Navigate again to:
+   **Advanced System Settings → Performance → Settings → Advanced → Virtual Memory**
+2. Confirm the values now reflect the new paging file size (500–1500 MB).
 
-<details>
-<summary>🔹 OS Architecture</summary>
+## Outcome
+You successfully:
+- Adjusted the paging file size
+- Restarted the system to apply the change
+- Verified the updated virtual memory configuration
 
-The OS follows a layered structure consisting of:  
-
-1. **Applications** – programs users interact with  
-2. **APIs** – allow apps to request OS services  
-3. **System Calls** – privileged operations performed by the OS  
-4. **Drivers** – help the OS communicate with hardware  
-5. **HAL (Hardware Abstraction Layer)** – keeps hardware interactions consistent  
-6. **Hardware** – CPU, memory, disk, devices  
-
-**Example:**  
-When you open a file in Notepad, the layers work together:  
-`APIs → System Calls → Drivers → HAL → Hardware`  
-
-</details>
-
-<details>
-<summary>🔹 Key OS Features</summary>
-
-- **Device Management:** OS installs and manages drivers  
-- **GUI:** Interface like taskbar, icons  
-- **File System Management:** Organizes storage, sets permissions  
-- **Security & Access Control:** Authentication, authorization  
-- **Process Management:** Handles program execution & multitasking  
-- **Memory Management:** Allocates RAM, manages active processes  
-
-</details>
-
-<details>
-<summary>🔹 Virtual Memory</summary>
-
-Virtual memory allows the OS to use part of the hard drive as extra RAM.  
-
-**Key concepts:**  
-
-- **Virtual vs. Physical Memory**  
-  - Virtual = flexible, uses disk, slower  
-  - Physical = RAM, faster, limited  
-
-- **Paging vs. Segmentation**  
-  - Paging → fixed-size blocks  
-  - Segmentation → variable-sized blocks  
-
-- **MMU (Memory Management Unit)** performs address translation  
-
-Virtual memory improves multitasking and application performance.
-
-</details>
-
-<details>
-<summary>🔹 Why This Matters in Cybersecurity</summary>
-
-Understanding OS internals helps with:  
-
-- Memory analysis  
-- Process monitoring  
-- System hardening  
-- Malware detection  
-- Investigating system calls & driver behavior  
-
-</details>
-
-<details>
-<summary>✔ Key Takeaways</summary>
-
-- The OS enables communication between software and hardware.  
-- Drivers, HAL, and system calls are essential components of OS operation.  
-- Virtual memory improves performance and security through isolation.  
-- OS features such as process, memory, and file management are critical for secure system operation.
-
-</details>
